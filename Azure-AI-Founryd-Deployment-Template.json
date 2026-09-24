@@ -176,6 +176,20 @@
         "capacity": 15000
       },
       {
+        "deploymentName": "gpt-6-sol",
+        "modelFormat": "OpenAI",
+        "modelName": "gpt-6-sol",
+        "version": "2026-09-22",
+        "capacity": 15000
+      },
+      {
+        "deploymentName": "gpt-6-luna",
+        "modelFormat": "OpenAI",
+        "modelName": "gpt-6-luna",
+        "version": "2026-09-22",
+        "capacity": 15000
+      },
+      {
         "deploymentName": "gpt-5-pro-2025-10-06",
         "modelFormat": "OpenAI",
         "modelName": "gpt-5-pro",
@@ -538,6 +552,20 @@
         "modelName": "gpt-image-1-mini",
         "version": "2025-10-06",
         "capacity": 40
+      },
+      {
+        "deploymentName": "gpt-image-2.5-flare",
+        "modelFormat": "OpenAI",
+        "modelName": "gpt-image-2.5-flare",
+        "version": "2026-09-08",
+        "capacity": 12
+      },
+      {
+        "deploymentName": "gpt-image-2.5-sunburst",
+        "modelFormat": "OpenAI",
+        "modelName": "gpt-image-2.5-sunburst",
+        "version": "2026-09-08",
+        "capacity": 12
       },
       {
         "deploymentName": "text-embedding-ada-002",
