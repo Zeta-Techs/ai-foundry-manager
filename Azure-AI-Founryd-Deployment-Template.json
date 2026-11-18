@@ -175,18 +175,46 @@
         "version": "2026-09-03",
         "capacity": 15000
       },
-      {
+	  {
         "deploymentName": "gpt-6-sol",
         "modelFormat": "OpenAI",
         "modelName": "gpt-6-sol",
         "version": "2026-09-22",
         "capacity": 15000
       },
-      {
+	  {
         "deploymentName": "gpt-6-luna",
         "modelFormat": "OpenAI",
         "modelName": "gpt-6-luna",
         "version": "2026-09-22",
+        "capacity": 15000
+      },
+	  {
+        "deploymentName": "gpt-6.1-sol",
+        "modelFormat": "OpenAI",
+        "modelName": "gpt-6.1-sol",
+        "version": "2026-09-29",
+        "capacity": 15000
+      },
+	  {
+        "deploymentName": "gpt-6.1-terra",
+        "modelFormat": "OpenAI",
+        "modelName": "gpt-6.1-terra",
+        "version": "2026-10-26",
+        "capacity": 15000
+      },
+      {
+        "deploymentName": "gpt-6.2-sol",
+        "modelFormat": "OpenAI",
+        "modelName": "gpt-6.2-sol",
+        "version": "2026-11-17",
+        "capacity": 15000
+      },
+	  {
+        "deploymentName": "gpt-6.2-astra",
+        "modelFormat": "OpenAI",
+        "modelName": "gpt-6.2-astra",
+        "version": "2026-11-17",
         "capacity": 15000
       },
       {
@@ -249,8 +277,8 @@
         "deploymentName": "gpt-chat-latest",
         "modelFormat": "OpenAI",
         "modelName": "gpt-chat-latest",
-        "version": "2026-05-05",
-        "capacity": 5000
+        "version": "2026-10-07",
+        "capacity": 8000
       },
       {
         "deploymentName": "codex-mini-latest",
@@ -441,6 +469,13 @@
         "version": "2026-05-06",
         "capacity": 300
       },
+	  {
+        "deploymentName": "gpt-live-transcribe",
+        "modelFormat": "OpenAI",
+        "modelName": "gpt-live-transcribe",
+        "version": "2026-07-28",
+        "capacity": 15
+      },
       {
         "deploymentName": "gpt-realtime-mini-2025-10-06",
         "modelFormat": "OpenAI",
@@ -533,6 +568,20 @@
         "capacity": 10
       },
       {
+        "deploymentName": "gpt-image-2.5-flare",
+        "modelFormat": "OpenAI",
+        "modelName": "gpt-image-2.5-flare",
+        "version": "2026-09-08",
+        "capacity": 12
+      },
+      {
+        "deploymentName": "gpt-image-2.5-sunburst",
+        "modelFormat": "OpenAI",
+        "modelName": "gpt-image-2.5-sunburst",
+        "version": "2026-09-08",
+        "capacity": 12
+      },
+      {
         "deploymentName": "gpt-image-1.5",
         "modelFormat": "OpenAI",
         "modelName": "gpt-image-1.5",
@@ -552,20 +601,6 @@
         "modelName": "gpt-image-1-mini",
         "version": "2025-10-06",
         "capacity": 40
-      },
-      {
-        "deploymentName": "gpt-image-2.5-flare",
-        "modelFormat": "OpenAI",
-        "modelName": "gpt-image-2.5-flare",
-        "version": "2026-09-08",
-        "capacity": 12
-      },
-      {
-        "deploymentName": "gpt-image-2.5-sunburst",
-        "modelFormat": "OpenAI",
-        "modelName": "gpt-image-2.5-sunburst",
-        "version": "2026-09-08",
-        "capacity": 12
       },
       {
         "deploymentName": "text-embedding-ada-002",

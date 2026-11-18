@@ -4,6 +4,7 @@ gpt-5-mini,gpt-5-mini-2025-08-07,gpt-5-nano,gpt-5-nano-2025-08-07,gpt-5.4-mini,g
 gpt-5-chat-latest,gpt-5.1-chat-latest,gpt-5.2-chat-latest,gpt-5.3-chat-latest,gpt-chat-latest,
 gpt-5,gpt-5-2025-08-07,gpt-5.1,gpt-5.1-2025-11-13,gpt-5.2,gpt-5.2-2025-12-11,gpt-5.4,gpt-5.4-2026-03-05,gpt-5.5,gpt-5.5-2026-04-23,
 gpt-5.6-sol,gpt-5.6-terra,gpt-5.6-luna,gpt-6-astra,gpt-6-sol,gpt-6-luna,
+gpt-6.1-sol,gpt-6.1-terra,gpt-6.2-sol,gpt-6.2-astra,
 gpt-5-pro,gpt-5-pro-2025-10-06,gpt-5.2-pro,gpt-5.2-pro-2025-12-11,gpt-5.4-pro,gpt-5.4-pro-2026-03-05,gpt-5.5-pro,gpt-5.5-pro-2026-04-23,
 
 codex-mini-latest,gpt-5-codex,gpt-5.1-codex,gpt-5.1-codex-max,gpt-5.1-codex-mini,gpt-5.2-codex,gpt-5.3-codex,
@@ -17,16 +18,14 @@ gpt-audio-1.5,gpt-audio,gpt-audio-2025-08-28,gpt-audio-mini,gpt-audio-mini-2025-
 gpt-4o-audio-preview,gpt-4o-audio-preview-2024-12-17,
 gpt-4o-mini-audio-preview,gpt-4o-mini-audio-preview-2024-12-17,gpt-audio-mini-2025-12-15,
 gpt-realtime-2,gpt-realtime-1.5,gpt-realtime,gpt-realtime-2025-08-28,gpt-realtime-mini,gpt-realtime-mini-2025-10-06,gpt-realtime-mini-2025-12-15,
-gpt-realtime-translate,gpt-realtime-whisper,
+gpt-realtime-translate,gpt-realtime-whisper,gpt-realtime-2.1,gpt-realtime-2.1-mini,gpt-live-transcribe,
 gpt-4o-mini-realtime-preview,gpt-4o-mini-realtime-preview-2024-12-17,
 gpt-4o-transcribe,gpt-4o-mini-transcribe,gpt-4o-mini-transcribe-2025-03-20,gpt-4o-mini-transcribe-2025-12-15,gpt-4o-transcribe-diarize,
 gpt-4o-mini-tts,gpt-4o-mini-tts-2025-03-20,gpt-4o-mini-tts-2025-12-15,
 whisper-1,tts-1,tts-1-hd,
 
-gpt-image-1,gpt-image-1-mini,gpt-image-1.5,gpt-image-2,gpt-image-2.5-flare,gpt-image-2.5-sunburst,
+gpt-image-1,gpt-image-1-mini,gpt-image-1.5,gpt-image-2,gpt-image-2.5-flare,gpt-image-2.5-sunburst,gpt-image-2.6-flare,gpt-image-2.6-sunburst,
 text-embedding-ada-002,text-embedding-3-small,text-embedding-3-large,
-
-sora-2,
 
 gpt-oss-120b,gpt-oss-20b,
 kimi-k2.6,kimi-k2.5,
